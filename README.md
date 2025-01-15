@@ -10,7 +10,7 @@
 
 🛠️ **Tech Stack:**
 - **Languages:** PHP, JavaScript
-- **Frontend:** React, Vue.js, HTML, CSS
+- **Frontend:** Next JS, React, Vue.js, HTML, CSS
 - **Backend:** Node.js, Laravel, Codeigniter
 - **DevOps:** Docker, Kubernetes, GitHub Actions
 

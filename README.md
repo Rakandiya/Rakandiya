@@ -21,8 +21,8 @@
 
 ### 📈 GitHub Stats
 
-![Rakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakandiya-shafwan&show_icons=true&theme=radical)
+![Rakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakandiya&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakandiya-shafwan&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakandiya&theme=radical)
